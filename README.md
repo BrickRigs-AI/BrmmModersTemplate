@@ -19,10 +19,16 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 
 # Getting started with this repo.
 
-Basic knowledge that u need:
-```
+Click (here)[] too get started with BRMM templates.
+
+ 
+Basic knowledge that u need before u start with this repo:
+
 - Know kow too use visual studio code and (git or github desktop).
-- Basic knowledge of Html,CSS,Javascript.```
+- Basic knowledge of Html,CSS,Javascript.
+
+##
+
 
 > [!TIP]
 > U are free too f
