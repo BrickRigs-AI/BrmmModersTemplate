@@ -1,15 +1,13 @@
 ## What is This?
 
 This is BRMM Template, an official, way too add html site into mod preview:
-- Load all mod entries in the GUI through the web.
-- Choose and remember your Brick Rigs install path.
+- Allows for much more customazibility in ur mod page.
+- .
 - Install and/or extract mods to those paths.
 - Display prompts about if the mod is installed/not, etc.
 
-For those concerned about this app, a [privacy policy](https://github.com/anonymous-editor/BRMM/blob/main/Documentation/PRIVACYPOLICY.md) and [terms and conditions document](https://github.com/anonymous-editor/BRMM/blob/main/Documentation/T%26C.md) are included.
-
-# Using BRMM:
-## Mod Showcase:
+# Using BRMM Template:
+## Showcase use:
 
 > [!TIP]
 > Be sure to open the video in a new tab.
