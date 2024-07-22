@@ -7,6 +7,7 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 - Supports various multimedia elements.
 - Enhances user engagement and interaction.
 
+## Preview of templates:
 
 <p align="center">
      <img src="https://img.youtube.com/vi/N1n8hyOlo_k/maxresdefault.jpg" alt="Video">
@@ -16,8 +17,11 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
      <img src="https://img.youtube.com/vi/a4IIA1PuZEg/maxresdefault.jpg" alt="Video">
 </p>
 
-> [!IMPORTANT]
-> Your antivirus may prevent you from downloading or running this program. This is a false positive, so feel free to make an exception for BRMM in your antivirus. The source code is included for anyone concerned.
+## Getting started with this repo
+
+> [!TIP]
+> U are free too f
+
 
 ## Contributing to BRMM
 
