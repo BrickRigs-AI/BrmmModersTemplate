@@ -7,8 +7,7 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 - Supports various multimedia elements.
 - Enhances user engagement and interaction.
 
-# Using BRMM Template:
-## Showcase use:
+# BRMM Template preview:
 
 > [!TIP]
 > Be sure to open the video in a new tab.
