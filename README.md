@@ -7,21 +7,13 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 - Supports various multimedia elements.
 - Enhances user engagement and interaction.
 
-# BRMM Template preview:
-
-> [!TIP]
-> Be sure to open the video in a new tab.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=N1n8hyOlo_k" target="_blank" rel="noopener noreferrer">
      <img src="https://img.youtube.com/vi/N1n8hyOlo_k/maxresdefault.jpg" alt="Video">
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=a4IIA1PuZEg" target="_blank" rel="noopener noreferrer">
      <img src="https://img.youtube.com/vi/a4IIA1PuZEg/maxresdefault.jpg" alt="Video">
-  </a>
 </p>
 
 > [!IMPORTANT]
