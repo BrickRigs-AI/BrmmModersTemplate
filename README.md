@@ -19,7 +19,7 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 
 # Getting started with this repo.
 
-Click (here)[] too get started with BRMM templates.
+Click [here](https://github.com/anonymous-editor/BRMM/blob/main/Documentation/SOURCECODE.md) too get started with BRMM templates.
 
  
 Basic knowledge that u need before u start with this repo:
