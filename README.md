@@ -34,7 +34,7 @@ Basic knowledge that u need before u start with this repo:
 > U are free too f
 
 
-## Contributing to BRMM
+## Contributing to BRMM Templates
 
 ### Source Code:
 
