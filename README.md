@@ -1,18 +1,17 @@
 ## What is This?
 
-This is BRMM Template, an official, way too add html site into mod preview:
-- Allows for much more customazibility in ur mod page.
-- .
-- Install and/or extract mods to those paths.
-- Display prompts about if the mod is installed/not, etc.
+This is the BRMM Template, an official way to add an HTML site into your mod preview:
+
+- Allows for much more customization on your mod page.
+- Much easier to use.
+- Supports various multimedia elements.
+- Enhances user engagement and interaction.
 
 # Using BRMM Template:
 ## Showcase use:
 
 > [!TIP]
 > Be sure to open the video in a new tab.
-
-HUGE thanks to Andi_pog for making this vid to showcase BRMM.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=N1n8hyOlo_k" target="_blank" rel="noopener noreferrer">
