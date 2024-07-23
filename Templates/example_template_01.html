@@ -21,7 +21,7 @@
                 <h2 style="padding: 0px; margin: 0px; padding-top: 10px; text-align: left; margin-left: 10px;">Example Mod</h2>
                 <p style="padding: 0px; margin: 0px; font-size: small; color: #CCC; padding-top: 5px; margin-left: 10px; text-align: left;">By test user</p>
                 <hr style="border-color: #B993DC; width: 95%;">
-                <button class="InstallButton" onclick="DownloadReq()">Install</button>
+                <button class="InstallButton" onclick="window.top.postMessage('DownloadReq', '*')">Install</button>
             </div>
             <div class="Side_download_button">
                 <h3 style="margin: 0px; padding: 0px; text-align: left; margin-left: 10px; margin-top: 10px;">Links</h3>
@@ -45,11 +45,6 @@
     </div>
 </body>
 </html>
-<script>
-    function DownloadReq(){
-        window.top.postMessage('DownloadReq', '*')
-    }
-</script>
 <style>
         body, html {
     background-color: #110C15;
