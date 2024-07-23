@@ -18,7 +18,7 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 </p>
 
 > [!TIP]
-> 
+> if u created ur own template u can share it here by contributing too this repo
 
 ## Contributing to BRMM Templates
 
