@@ -22,9 +22,9 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 
 ## Contributing to BRMM Templates
 
-### Source Code:
+### Templates:
 
-Anyone (who wants to improve BRMM Templats) can make pull request ths repo. Be sure to provide a description of what you want to change however, so that it is more likely to be approved.
+Anyone who wants to improve templates or add new ones can make a pull request to this repo. Be sure to provide a description of what you changed so that it is more likely to be approved.
 
 You can start with BRMM templates from source by using [these instructions](https://github.com/anonymous-editor/BRMM/blob/main/Documentation/SOURCECODE.md).
 
