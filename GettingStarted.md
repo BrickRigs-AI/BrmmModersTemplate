@@ -14,7 +14,7 @@
 > [!IMPORTANT]
 > If you want the install button to work with BRMM, you need to paste this code and connect it to the button.
 > ```
->  function DownloadReq(){
+  function DownloadReq(){
         window.top.postMessage('DownloadReq', '*')
     }
-> ```
+ ```
