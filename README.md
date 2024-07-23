@@ -10,7 +10,7 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 ## Preview of templates:
 
 <p align="center">
-     <img src="https://img.youtube.com/vi/N1n8hyOlo_k/maxresdefault.jpg" alt="Video">
+     <img src="https://github.com/ControllerPog/BrmmModersTemplate/blob/main/Screenshots/example_01.png" alt="imge1">
 </p>
 
 <p align="center">
