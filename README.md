@@ -14,7 +14,7 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
 </p>
 
 <p align="center">
-     <img src="https://img.youtube.com/vi/a4IIA1PuZEg/maxresdefault.jpg" alt="Video">
+     <img src="https://github.com/ControllerPog/BrmmModersTemplate/blob/main/Screenshots/example_02.png" alt="imge2">
 </p>
 
 > [!TIP]
