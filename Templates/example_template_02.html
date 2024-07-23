@@ -42,17 +42,12 @@
                 <p style="padding: 0px; margin: 0px; font-size: small; color: #CCC; padding-top: 5px; margin-left: 10px; text-align: left;">By test user</p>
                 <hr style="border-color: #B993DC; width: 95%;">
                 <p style="text-align: left; margin-left: 10px; width: 95%;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eveniet ullam veniam nisi tempore unde explicabo, necessitatibus quos, sunt, illo cum a perferendis harum voluptas neque nam asperiores ratione odio?</p>
-                <button class="InstallButton" onclick="DownloadReq()">Install</button>
+                <button class="InstallButton" onclick="window.top.postMessage('DownloadReq', '*')">Install</button>
             </div>
         </div>
     </div>
 </body>
 </html>
-<script>
-    function DownloadReq(){
-        window.top.postMessage('DownloadReq', '*')
-    }
-</script>
 <style>
         body, html {
     background-color: #110C15;
