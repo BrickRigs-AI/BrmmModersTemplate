@@ -17,9 +17,6 @@ This is the BRMM Template, an official way to add an HTML site into your mod pre
      <img src="https://github.com/ControllerPog/BrmmModersTemplate/blob/main/Screenshots/example_02.png" alt="imge2">
 </p>
 
-> [!TIP]
-> if u created ur own template u can share it here by contributing too this repo
-
 ## Contributing to BRMM Templates
 
 ### Templates:
