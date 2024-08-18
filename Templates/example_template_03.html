@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="big">
+        <div class="Left_sidebar">
+        </div>
+        <div class="right_sidebar">
+            <div class="Side_download_button">
+                <div class="imge_holder"></div>
+                <h2 style="padding: 0px; margin: 0px; padding-top: 10px; text-align: left; margin-left: 10px;">IDK</h2>
+                <p style="padding: 0px; margin: 0px; font-size: small; color: #CCC; padding-top: 5px; margin-left: 10px; text-align: left;">By (IDK)</p>
+                <hr style="border-color: #B993DC; width: 95%;">
+                <button class="InstallButton" onclick="window.top.postMessage('DownloadReq', '*')">Install</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<style>
+        body, html {
+    background-color: #110C15;
+    margin: 0;
+    width: 100%;
+    height:  calc(100% - 100px);
+    overflow-x: hidden;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    display: flex;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #B993DC; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #B993DC;
+}
+
+.InstallButton{
+    width: 95%;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid lime;
+    transition: all 1s;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.InstallButton:hover{
+    border-color: green;
+    border-radius: 5px;
+}
+
+.link{
+    margin-top: 5px;
+    color: #CCC;
+    width: 100%;
+    display: flex;
+    align-items: end;
+    margin-left: 10px;
+}
+
+.link a{
+    padding-right: 10px;
+    text-decoration: none;
+    transition: all 1s;
+}
+
+.link:hover a{
+    text-decoration: underline;
+}
+
+    .big{
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+
+    .Left_sidebar{
+        width: 75%;
+        height: 100%;
+        overflow-y: scroll;
+    }
+
+    .right_sidebar{
+        width: 25%;
+        height: 100%;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        flex-direction: column;
+        overflow-y: scroll;
+    }
+
+    .Side_download_button{
+        margin-top: 4px;
+        width: 97%;
+        background-color: #110C15;
+        border-radius: 5px;
+        overflow: hidden;
+        border: 1px solid #B993DC
+        ;
+    }
+
+    .imge_holder{
+        width: 100%;
+        height: 150px;
+        background-image: url(./Assets/brmm.png);
+        background-position: start;
+        background-size: cover;
+    }
+</style>
